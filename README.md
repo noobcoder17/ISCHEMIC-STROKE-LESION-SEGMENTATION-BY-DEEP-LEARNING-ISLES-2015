@@ -14,7 +14,7 @@
 ### 3) My CNN Architecture
 
 ### 4) Dataset
-**SISS Dataset**
+### 4.1) SISS Dataset
 
 *File:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;There are 4 types of MRI scan for one person*
@@ -33,7 +33,8 @@
   <img src="./assets/siss.jpg">
 </div>
 
-**SPES Dataset**
+
+### 4.2) SPES Dataset
 
 *File:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;There are 7 types of MRI scan for one person*
@@ -51,3 +52,5 @@
 <div align="center">
   <img src="./assets/spes.jpg">
 </div>
+
+
