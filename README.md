@@ -76,6 +76,8 @@
  <br>
  <em align="center">Fig 5:  An schematic diagram of the proposed Inception block.</em>
 </div>
+
+
 ### 4) Evaluation Metric
 True Positive (TP): TP implies number of true positives, that is, positive correctly identified as positive.
 <br>
