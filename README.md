@@ -66,6 +66,16 @@
 |zoom_range     |    0.1        |
 
 ### 3) My CNN Architecture
+<div align="center">
+ <img src="./assets/model.png">
+ <br>
+ <em align="center">Fig 4: The architecture of the proposed framework for Ischemic Stroke Lesion segmentation.</em>
+ <br>
+ <br>
+ <img src="./assets/block.png">
+ <br>
+ <em align="center">Fig 5:  An schematic diagram of the proposed Inception block.</em>
+</div>
 ### 4) Evaluation Metric
 True Positive (TP): TP implies number of true positives, that is, positive correctly identified as positive.
 <br>
