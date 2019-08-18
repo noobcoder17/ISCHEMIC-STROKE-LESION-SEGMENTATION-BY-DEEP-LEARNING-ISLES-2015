@@ -30,7 +30,7 @@
 <div align="center">
   <img src="./assets/siss.jpg">
  <br>
- <em align="center">Fig 2:SISS dataset.</em>
+ <em align="center">Fig 2: SISS dataset.</em>
 </div>
 
 
@@ -84,9 +84,9 @@ False Negative (FN): FN implies number of false negatives, that is, positive inc
 ![Specificity=\frac{N_{TN}}{N_{TN}+ N_{FP}}](https://latex.codecogs.com/svg.latex?SPC%3D%5Cfrac%7BN_%7BTN%7D%7D%7BN_%7BTN%7D&plus;%20N_%7BFP%7D%7D)
 
 ### 5) Ortimizer and Hyperparameter
-### 5.1) Optimizer 
+#### 5.1) Optimizer 
 [Adam Optimizer](https://arxiv.org/pdf/1412.6980.pdf)
-### 5.2) Hyperparameter
+#### 5.2) Hyperparameter
 ![LearningRate=Lr_i * f^{(epoch / step)}](https://latex.codecogs.com/svg.latex?LearningRate%3DLr_i%20*%20f%5E%7B%28epoch%20/%20step%29%7D)
 <br>
 Lri = Initial Learning Rate = 0.0001
@@ -95,21 +95,41 @@ decay factor(f) = 0.2
 <br>
 step = 2
 
-### 5) Results
+### 6) Results
 <div align="center">
  <img src="./assets/result.png">
  <br>
- <em align="center">Fig 6:Performance of proposed network in term of dice coefficient on each modality on SISS and SPES Dataset for
+ <em align="center">Fig 6: Performance of proposed network in term of dice coefficient on each modality on SISS and SPES Dataset for
 various loss functions.</em>
+ <br>
  <br>
  <img src="./assets/siss-plot.png">
  <br>
- <em align="center">Fig 7:From left to right: Plot for loss DSC and accuracy for training and validation set on SISS dataset.
+ <em align="center">Fig 7: From left to right: Plot for loss DSC and accuracy for training and validation set on SISS dataset.
 </em>
+ <br>
+ <br>
  <img src="./assets/spes-plot.png">
  <br>
- <em align="center">Fig 8:From left to right: Plot for loss DSC and accuracy for training and validation set on SPES dataset.</em>
+ <em align="center">Fig 8: From left to right: Plot for loss DSC and accuracy for training and validation set on SPES dataset.</em>
 </div>
+
+### 7) Conclusion
+<p align="justify">This study models a modification of the U-Net and Inception
+Net trained upon a well-known public dataset ISLES 2015,
+proposed for the automatic segmentation of stroke lesion from
+MR images. Upon careful evaluation on the above dataset,
+our model demonstrated an increase in the efficiency and
+performance, outperforming some of the other modern CNN
+based architectures. The same can be attributed to the flexibility of selecting the training method and the structure of the
+proposed model which in turn enhanced the training stability.
+The model has been tested for various loss functions for
+different modalities. A patient-wise study led to the conclusion that there is a further scope for improvement while detecting
+very small lesions. For subsequent work, we aim to expand
+onto other lesions studying different disorders as we believe
+that our model holds great potential in the medical field in
+relation to the diagnosis and treatment of several disorders.
+</p>
 
 
 
