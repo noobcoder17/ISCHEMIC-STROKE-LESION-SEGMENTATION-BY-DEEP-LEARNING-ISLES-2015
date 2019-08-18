@@ -29,6 +29,8 @@
 <br>
 <div align="center">
   <img src="./assets/siss.jpg">
+ <br>
+ <em align="center">Fig 2:SISS dataset.</em>
 </div>
 
 
@@ -49,6 +51,8 @@
 <br>
 <div align="center">
   <img src="./assets/spes.jpg">
+ <br>
+ <em align="center">Fig 3: SPES dataset.</em>
 </div>
 
 ### 2.3) Data Augmentation
@@ -91,14 +95,20 @@ decay factor(f) = 0.2
 <br>
 step = 2
 
-### Results
+### 5) Results
 <div align="center">
  <img src="./assets/result.png">
  <br>
- <em align="center">Performance of proposed network in term of dice coefficient on each modality on SISS and SPES Dataset for
+ <em align="center">Fig 6:Performance of proposed network in term of dice coefficient on each modality on SISS and SPES Dataset for
 various loss functions.</em>
  <br>
- 
+ <img src="./assets/siss-plot.png">
+ <br>
+ <em align="center">Fig 7:From left to right: Plot for loss DSC and accuracy for training and validation set on SISS dataset.
+</em>
+ <img src="./assets/spes-plot.png">
+ <br>
+ <em align="center">Fig 8:From left to right: Plot for loss DSC and accuracy for training and validation set on SPES dataset.</em>
 </div>
 
 
