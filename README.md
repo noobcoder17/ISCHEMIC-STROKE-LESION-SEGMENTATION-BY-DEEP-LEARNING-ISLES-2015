@@ -32,3 +32,22 @@
 <div align="center">
   <img src="./assets/siss.jpg">
 </div>
+
+**SPES Dataset**
+
+*File:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;There are 7 types of MRI scan for one person*
+
+*File Format:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+.nii*
+
+*Image Shape:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+96(Slide Width) × 110(Slide Height) × 71(Number of Slide) × 7(Multi-mode)*
+
+*Image Mode:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+7 (Multi-mode)*
+
+<br>
+<div align="center">
+  <img src="./assets/spes.jpg">
+</div>
