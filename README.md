@@ -1,5 +1,9 @@
 # ISLES (ISCHEMIC STROKE LESION SEGMENTATION)
 
+## Update: 
+
+<b>24th Dec, 2025</b> - Hi everyone, I don't have the access of the training data anymore. The data was stored in a Google Drive of my institutional email. I have graduated in 2020, so I don't have access to my institutional email and Google Drive anymore.
+
 ### Visual Result
 <div align="center">
  <img src="./assets/result.fig.gif">
