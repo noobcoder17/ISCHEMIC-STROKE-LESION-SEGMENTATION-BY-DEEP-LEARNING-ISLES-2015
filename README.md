@@ -2,7 +2,9 @@
 
 ## Update: 
 
-<b>24th Dec, 2025</b> - Hi everyone, I don't have the access of the training data anymore. The data was stored in a Google Drive of my institutional email. I have graduated in 2020, so I don't have access to my institutional email and Google Drive anymore.
+<b>24th Dec, 2025</b> - Hi everyone, I don't have the access of the original training data anymore. The data was stored in a Google Drive of my institutional email. I have graduated in 2020, so I don't have access to my institutional email and Google Drive anymore.
+
+But You can download the my project from <a href="https://drive.google.com/file/d/1SpBlO07wufEXz6pP2RyGbYTdjGpCPdzg/view?usp=sharing">here</a>. This contains the extracted data from from the orginal data. Based on this data in the zip, I trained my model.
 
 ### Visual Result
 <div align="center">
